@@ -21,3 +21,17 @@ Then run it as sudo user.
 sudo ./install.sh
 ```
 
+
+How to uninstall:
+-------------
+
+Give the execution right to it.
+------------------------------
+```
+chmod +x uninstall.sh
+```
+Then run it as sudo user.
+-------------------------
+```
+sudo ./uninstall.sh
+```

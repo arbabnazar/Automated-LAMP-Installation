@@ -23,10 +23,10 @@ sudo ./install.sh
 
 
 
-To uninstall
+To uninstall:
 ------------
 
-```
+
 Give the execution right to it.
 ------------------------------
 ```

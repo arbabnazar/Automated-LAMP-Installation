@@ -20,7 +20,7 @@ sudo apt-get update
 
 #Apache, Php, MySQL and required packages installation
 
-sudo apt-get -y install purge apache2 php7.0 libapache2-mod-php7.0 php7.0-mcrypt php5-cur7.0 php7.0-mysql php7.0-gd php7.0-cli php7.0-dev mysql-client
+sudo apt-get -y install purge apache2 php7.0 libapache2-mod-php7.0 php7.0-mcrypt php7.0-curl php7.0-mysql php7.0-gd php7.0-cli php7.0-dev mysql-client
 php5enmod mcrypt
 
 sudo apt-get -y install purge mysql-server
